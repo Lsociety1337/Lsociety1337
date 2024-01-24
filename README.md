@@ -1,4 +1,4 @@
 <h1 align="center">Lsociety1337</h1>
 <p align="center">
-<img src="./misa.png">
+<img src="./misa.png" , height=50%>
 </p>
